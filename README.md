@@ -14,3 +14,32 @@ The questions are organized into:
 - Easy: Beginner-friendly questions to build your foundation.
 - Medium: Intermediate-level questions that test both problem-solving and optimization.
 - Hard: Advanced-level questions that require strong problem-solving skills and an in-depth understanding of algorithms and data structures.
+<br>
+.
+├── Amazon
+│   ├── Easy
+│   ├── Medium
+│   └── Hard
+├── Microsoft
+│   ├── Easy
+│   ├── Medium
+│   └── Hard
+├── Google
+│   ├── Easy
+│   ├── Medium
+│   └── Hard
+├── Atlassian
+│   ├── Easy
+│   ├── Medium
+│   └── Hard
+├── Adobe
+│   ├── Easy
+│   ├── Medium
+│   └── Hard
+├── Goldman Sachs
+│   ├── Easy
+│   ├── Medium
+│   └── Hard
+└── README.md
+
+
