@@ -6,6 +6,7 @@ This repository contains a collection of data structures and algorithms (DSA) in
 <br>
 
 **About**
+<br>
 This repository is a comprehensive collection of DSA interview questions from some of the biggest companies in the tech industry. The aim of this repository is to help developers, students, and interviewees to practice, understand, and excel at solving algorithmic challenges commonly asked in technical interviews.
 
 The questions are organized into:
