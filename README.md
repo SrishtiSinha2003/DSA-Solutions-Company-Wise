@@ -20,26 +20,26 @@ The questions are organized into:
 │   ├── Easy  <br>
 │   ├── Medium  <br>
 │   └── Hard <br>
-├── Microsoft
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-├── Google
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-├── Atlassian
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-├── Adobe
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-├── Goldman Sachs
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-└── README.md
+├── Microsoft <br>
+│   ├── Easy <br>
+│   ├── Medium <br>
+│   └── Hard <br>
+├── Google <br>
+│   ├── Easy <br>
+│   ├── Medium <br>
+│   └── Hard <br>
+├── Atlassian <br>
+│   ├── Easy <br>
+│   ├── Medium <br>
+│   └── Hard <br>
+├── Adobe <br>
+│   ├── Easy <br>
+│   ├── Medium <br>
+│   └── Hard <br>
+├── Goldman Sachs <br>
+│   ├── Easy <br>
+│   ├── Medium<br>
+│   └── Hard<br>
+└── README.md<br>
 
 
