@@ -17,9 +17,9 @@ The questions are organized into:
 <br>
 
 ├── Amazon <br>
-│   ├── Easy  <br>
-│   ├── Medium  <br>
-│   └── Hard <br>
+    ├── Easy  <br>
+    ├── Medium  <br>
+    └── Hard <br>
 ├── Microsoft <br>
 │   ├── Easy <br>
 │   ├── Medium <br>
