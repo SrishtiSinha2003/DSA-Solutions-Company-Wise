@@ -15,11 +15,11 @@ The questions are organized into:
 - Medium: Intermediate-level questions that test both problem-solving and optimization.
 - Hard: Advanced-level questions that require strong problem-solving skills and an in-depth understanding of algorithms and data structures.
 <br>
-.
-├── Amazon
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
+
+├── Amazon <br>
+│   ├── Easy  <br>
+│   ├── Medium  <br>
+│   └── Hard <br>
 ├── Microsoft
 │   ├── Easy
 │   ├── Medium
