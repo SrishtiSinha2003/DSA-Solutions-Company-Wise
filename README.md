@@ -5,7 +5,7 @@ This repository contains a collection of data structures and algorithms (DSA) in
 **Amazon**, **Microsoft**, **Google**, **Atlassian**, **Adobe**, and **Goldman Sachs**. The questions are categorized by company and difficulty level.
 <br>
 
-**About**
+## About -
 <br>
 This repository is a comprehensive collection of DSA interview questions from some of the biggest companies in the tech industry. The aim of this repository is to help developers, students, and interviewees to practice, understand, and excel at solving algorithmic challenges commonly asked in technical interviews.
 
