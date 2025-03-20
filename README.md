@@ -41,5 +41,9 @@ The questions are organized into:
 │   ├── Medium<br>
 │   └── Hard<br>
 └── README.md<br>
+**Each company folder contains three subfolders:** <br>
 
+- Easy: Basic DSA problems to get started.
+- Medium: More complex questions, often involving optimization.
+- Hard: Challenging problems that require deep algorithmic thinking.
 
