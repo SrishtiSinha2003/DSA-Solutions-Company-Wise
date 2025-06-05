@@ -1,24 +1,23 @@
-public class NumberOfSubstringsWithOnly1 {
-    public int countSubstrings(String s) {
-        int count = 0;
-        int currentLength = 0;
+class Solution {
+    public int numSub(String s) {
+        long count = 0;
+        long currentLength = 0;
+        int MOD = 1_000_000_007;
 
         for (char c : s.toCharArray()) {
             if (c == '1') {
                 currentLength++;
-                count += currentLength;
+                count = (count + currentLength) % MOD;
             } else {
                 currentLength = 0;
             }
         }
 
-        return count;
+        return (int) count;
     }
-
     public static void main(String[] args) {
-        NumberOfSubstringsWithOnly1 solution = new NumberOfSubstringsWithOnly1();
-        String s = "00110011";
-        int result = solution.countSubstrings(s);
-        System.out.println(result);
+        Solution solution = new Solution();
+        String s = "0110111";
+        System.out.println(solution.numSub(s)); // Output: 9
     }
 }
